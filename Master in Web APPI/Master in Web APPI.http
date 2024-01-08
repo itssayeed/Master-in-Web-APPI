@@ -1,0 +1,6 @@
+@Master_in_Web_APPI_HostAddress = http://localhost:5178
+
+GET {{Master_in_Web_APPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
